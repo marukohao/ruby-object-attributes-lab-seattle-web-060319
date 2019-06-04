@@ -29,7 +29,7 @@ class Person
     @job = job_type
   end
   
-  def name
-    @name
+  def job
+    @job
   end
 end
